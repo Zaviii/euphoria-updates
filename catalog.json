@@ -1,0 +1,43 @@
+{
+  "versions": [
+    {
+      "id": "rl-alpha",
+      "title": "Rocket League",
+      "name": "Alpha",
+      "version": "1.05",
+      "folderName": "RL-Alpha",
+      "artwork": "2015",
+      "description": "The original launch-era build. Raw, simple and exactly how it felt in summer 2015.",
+      "downloadUrl": "",
+      "downloadSize": null,
+      "installSize": null,
+      "executable": "Binaries/Win32/RocketLeague.exe",
+      "arenas": [
+        "DFH Stadium",
+        "Mannfield",
+        "Champions Field",
+        "Urban Central",
+        "Beckwith Park",
+        "Utopia Coliseum"
+      ],
+      "cars": [
+        "Octane",
+        "Backfire",
+        "Breakout",
+        "Gizmo",
+        "Hotshot",
+        "Merc",
+        "Paladin",
+        "Road Hog",
+        "Venom",
+        "X-Devil"
+      ],
+      "modes": [
+        "1v1 – 4v4",
+        "Exhibition",
+        "Season",
+        "Training"
+      ]
+    }
+  ]
+}
