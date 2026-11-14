@@ -13,6 +13,11 @@
       "installSize": 380331793,
       "executable": "Start Rocket League.exe",
       "gameProcess": "RocketLeague.exe",
+      "discord": {
+        "clientId": "1569100093934538762",
+        "redirectPort": 43821,
+        "dataPath": "Runtime/AlphaHostOffline/TAGame/SaveData/Discord"
+      },
       "arenas": [
         "DFH Stadium",
         "Mannfield",
