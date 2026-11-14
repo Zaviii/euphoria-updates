@@ -12,6 +12,7 @@
       "downloadSize": null,
       "installSize": 380331793,
       "executable": "Start Rocket League.exe",
+      "gameProcess": "RocketLeague.exe",
       "arenas": [
         "DFH Stadium",
         "Mannfield",
