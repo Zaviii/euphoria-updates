@@ -7,7 +7,7 @@
       "version": "v20",
       "folderName": "RL-Alpha",
       "artwork": "2015",
-      "description": "The original launch-era build. Raw, simple and exactly how it felt in summer 2015.",
+      "description": "The closed alpha from before Rocket League launched: one stadium under the night sky, five original cars and the very first customization items — exactly as the early testers played it.",
       "downloadUrl": "https://hstest.columbina.pl/v20.zip?pass=test",
       "downloadSize": null,
       "installSize": 380331793,
@@ -19,30 +19,19 @@
         "dataPath": "Runtime/AlphaHostOffline/TAGame/SaveData/Discord"
       },
       "arenas": [
-        "DFH Stadium",
-        "Mannfield",
-        "Champions Field",
-        "Urban Central",
-        "Beckwith Park",
-        "Utopia Coliseum"
+        "Stadium (Night)"
       ],
       "cars": [
-        "Octane",
-        "Backfire",
-        "Breakout",
-        "Gizmo",
-        "Hotshot",
-        "Merc",
-        "Paladin",
-        "Road Hog",
-        "Venom",
-        "X-Devil"
+        "Pepe",
+        "Spark",
+        "Street Rat",
+        "Torch",
+        "Torment"
       ],
       "modes": [
-        "1v1 – 4v4",
-        "Exhibition",
-        "Season",
-        "Training"
+        "Online matches",
+        "Matches vs. bots",
+        "LAN"
       ]
     }
   ]
